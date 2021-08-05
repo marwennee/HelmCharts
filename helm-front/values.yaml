@@ -10,6 +10,7 @@ service:
   targetPort: 80
   protocol: TCP
 
+
 configmapData:
   API_URL: http://elyadata-devops-back.com/api/tutorials
   API_URL_1: http://elyadata-devops-back-1.com/api/tutorials
