@@ -2,7 +2,6 @@ metadata:
   name: sample-angular
   namespace: testing
     
-
 service:
   name: angular-service
   type: ClusterIP
