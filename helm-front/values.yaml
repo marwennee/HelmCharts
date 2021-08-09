@@ -19,6 +19,7 @@ image:
     pullPolicy: Always
 
 
+
 spec:
   replicasCout: 1
   restartPolicy: OnFailure

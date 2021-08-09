@@ -16,7 +16,6 @@ configmapData:
   PORT: 8080
 
 
-
 image:
     repository: marwenguesmii/nodejsapp
     tag: "2.0"
