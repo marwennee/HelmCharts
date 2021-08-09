@@ -2,6 +2,7 @@ metadata:
   name: sample-nodejs
   namespace: testing
 
+
 service:
   name: nodejs-service
   type: ClusterIP
