@@ -49,6 +49,10 @@ ingress:
                 name: angular-service
                 port:
                   number: 80
-
+autoscaling:
+  enabled: false
+  minReplicas: 1
+  maxReplicas: 100
+  targetCPUUtilizationPercentage: 80
 
 
